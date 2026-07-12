@@ -1,9 +1,1 @@
-{"timestamp":"00:00:02.356","source":"Server","level":"LOG","message":"It looks like you're trying to use TypeScript but do not have the required package(s) installed.\nInstalling dependencies\n\nIf you are not trying to use TypeScript, please remove the tsconfig.json file from your package root (and any TypeScript files in your app and pages directories).\n"}
-{"timestamp":"00:00:02.368","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:02.368","source":"Server","level":"LOG","message":"Installing devDependencies (npm):"}
-{"timestamp":"00:00:02.369","source":"Server","level":"LOG","message":"- typescript"}
-{"timestamp":"00:00:02.369","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:06.876","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:07.565","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:25.620","source":"Server","level":"LOG","message":"○ Compiling / ..."}
-{"timestamp":"00:00:27.238","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:03.178","source":"Server","level":"LOG","message":""}
