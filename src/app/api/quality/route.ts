@@ -70,3 +70,6 @@ export async function DELETE(req: NextRequest) {
   await db.delete(qualityChecks).where(eq(qualityChecks.id, parseInt(id)));
   return NextResponse.json({ ok: true });
 }
+
+
+
